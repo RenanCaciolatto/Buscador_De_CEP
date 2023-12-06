@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+    margin-top: 150px;
+}
+
+h2{
+    text-shadow: 2px;
+    padding: 20px;
+}
+
+input{
+    padding-top: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    text-justify: auto;
+    text-size-adjust: 24px;
+    border-radius: 10px;
+}
+
+button{
+    padding-top: 7px;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+    color: black;
+    background-color: rgb(255, 255, 255);
+}
+
+.recentralizar{
+    margin-left: 530px;
+    text-align: left;
+}
